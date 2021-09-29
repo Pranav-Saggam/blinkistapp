@@ -1,0 +1,166 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "Steve Jobs",
+      "author": "Walter Isaacson",
+      "time": "20",
+      "category": "Entrepreneurship",
+      "image": "https://images.blinkist.com/images/books/608a9c296cee070007228a21/1_1/470.jpg",
+      "status": "finished"
+    },
+    {
+      "id": 2,
+      "title": "Dropshipping",
+      "author": "James Moore",
+      "time": "20",
+      "category": "Entrepreneurship",
+      "image": "https://images.blinkist.com/images/books/60701b716cee070008b8b7a1/1_1/470.jpg",
+      "status": "finished"
+    },
+    {
+      "id": 3,
+      "title": "The Bully Pulpit",
+      "author": "Goodwin",
+      "time": "19",
+      "category": "Politics",
+      "image": "https://images.blinkist.com/images/books/608aa9b16cee070007228a70/1_1/250.jpg",
+      "status": "explore"
+    },
+    {
+      "title": "ewr",
+      "author": "ewr",
+      "category": "Science",
+      "time": "erwerwer",
+      "status": "explore",
+      "image": "https://images.blinkist.com/images/books/6007f93c6cee070007a81d3f/1_1/250.jpg",
+      "id": 4
+    },
+    {
+      "title": "werwe",
+      "author": "erte",
+      "category": "ere",
+      "time": "werwre",
+      "status": "explore",
+      "image": "https://images.blinkist.com/images/books/6007f93c6cee070007a81d3f/1_1/250.jpg",
+      "id": 5
+    },
+    {
+      "title": "wrfewr",
+      "author": "ewrwertwerq",
+      "category": "qweqwe",
+      "time": "weweee",
+      "status": "explore",
+      "image": "https://images.blinkist.com/images/books/6007f93c6cee070007a81d3f/1_1/250.jpg",
+      "id": 6
+    },
+    {
+      "title": "homosapiens",
+      "author": "trg",
+      "category": "history",
+      "time": "16",
+      "status": "current",
+      "image": "https://images.blinkist.com/images/books/6007f93c6cee070007a81d3f/1_1/250.jpg",
+      "id": 7
+    },
+    {
+      "title": "got",
+      "author": "pranav",
+      "category": "auto",
+      "time": "test",
+      "status": "explore",
+      "image": "https://images.blinkist.com/images/books/6007f93c6cee070007a81d3f/1_1/250.jpg",
+      "id": 8
+    },
+    {
+      "title": "etre",
+      "author": "wewq",
+      "category": "erwer",
+      "time": "wdesasd",
+      "status": "explore",
+      "image": "https://images.blinkist.com/images/books/6007f93c6cee070007a81d3f/1_1/250.jpg",
+      "id": 9
+    },
+    {
+      "title": "homosapiens",
+      "author": "wewq",
+      "category": "Science",
+      "time": "bhg",
+      "status": "explore",
+      "image": "https://images.blinkist.com/images/books/6007f93c6cee070007a81d3f/1_1/250.jpg",
+      "id": 10
+    },
+    {
+      "title": "sdrf",
+      "author": "dsfsf",
+      "category": "dsfdf",
+      "time": "sds",
+      "status": "explore",
+      "image": "https://images.blinkist.com/images/books/6007f93c6cee070007a81d3f/1_1/250.jpg",
+      "id": 11
+    },
+    {
+      "title": "wased",
+      "author": "weqw",
+      "category": "weqw",
+      "time": "4543fdgfgdfg",
+      "status": "explore",
+      "image": "https://images.blinkist.com/images/books/6007f93c6cee070007a81d3f/1_1/250.jpg",
+      "id": 12
+    },
+    {
+      "title": "ewr",
+      "author": "er",
+      "category": "eqw",
+      "time": "History",
+      "status": "explore",
+      "image": "https://images.blinkist.com/images/books/6007f93c6cee070007a81d3f/1_1/250.jpg",
+      "id": 13
+    },
+    {
+      "title": "sdrfdsfds",
+      "author": "df",
+      "category": "Fiction",
+      "time": "dfg",
+      "status": "explore",
+      "image": "https://images.blinkist.com/images/books/6007f93c6cee070007a81d3f/1_1/250.jpg",
+      "id": 14
+    },
+    {
+      "title": "ewr",
+      "author": "wewq",
+      "category": "Science",
+      "time": "dfg",
+      "status": "explore",
+      "image": "https://images.blinkist.com/images/books/6007f93c6cee070007a81d3f/1_1/250.jpg",
+      "id": 15
+    },
+    {
+      "title": "werqwe",
+      "author": "wqeqw",
+      "category": "History",
+      "time": "1",
+      "status": "explore",
+      "image": "https://images.blinkist.com/images/books/6007f93c6cee070007a81d3f/1_1/250.jpg",
+      "id": 16
+    },
+    {
+      "title": "game",
+      "author": "erer",
+      "category": "History",
+      "time": "7",
+      "status": "explore",
+      "image": "https://images.blinkist.com/images/books/6007f93c6cee070007a81d3f/1_1/250.jpg",
+      "id": 17
+    },
+    {
+      "title": "21lessons",
+      "author": "yuva",
+      "category": "Fiction",
+      "time": "3",
+      "status": "explore",
+      "image": "https://images.blinkist.com/images/books/6007f93c6cee070007a81d3f/1_1/250.jpg",
+      "id": 18
+    }
+  ]
+}
